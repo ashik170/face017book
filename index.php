@@ -1,1 +1,0 @@
-<?php echo'<script>window.location.replace("./Pentanik IT/admin/index.php");</script>';?>
